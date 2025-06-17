@@ -123,7 +123,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="clsDblLinkedList.cpp" />
+    <ClCompile Include="clsMyStack.cpp" />
     <ClCompile Include="My-stack.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsDblLinkedList.h" />
+    <ClInclude Include="clsMyQueue.h" />
+    <ClInclude Include="clsMyStack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
