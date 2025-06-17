@@ -64,7 +64,7 @@ This project was built by **Chiheb Abiza** as a practical implementation of temp
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ---
 
